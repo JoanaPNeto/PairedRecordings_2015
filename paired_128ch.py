@@ -1,4 +1,4 @@
-__author__ = 'George Dimitriadis'
+__author__ = 'George Dimitriadis & Joana Neto'
 
 
 
