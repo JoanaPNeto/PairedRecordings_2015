@@ -2,7 +2,7 @@
 """
 Created on Tue Mar 03 16:13:49 2015
 
-@author: kampff
+@author: kampffLab
 """
 
 
