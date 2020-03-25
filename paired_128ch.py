@@ -1,7 +1,5 @@
 __author__ = 'George Dimitriadis & Joana Neto'
 
-
-
 import os
 import numpy as np
 import BrainDataAnalysis.timelocked_analysis_functions as tf
